@@ -8,7 +8,7 @@ function Practice(props) {
     }, []);
     return (
         <div >
-           hello child 2
+           hello child 3
         </div>
     );
 }
