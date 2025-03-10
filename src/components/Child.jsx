@@ -2,8 +2,8 @@ import React from 'react';
 
 function Child(props) {
     return (
-        <div>child
-            
+        <div>
+            i am child 4.3
         </div>
     );
 }
