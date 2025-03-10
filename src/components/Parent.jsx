@@ -3,7 +3,7 @@ import React from 'react';
 function Parent(props) {
     return (
         <div>
-           i am not good
+           i am hello not good
         </div>
     );
 }
